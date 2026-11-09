@@ -1,0 +1,98 @@
+{
+  "item": {
+    "id": "com.xbstudio.goodpizza",
+    "restype": "quick_app",
+    "name": "可口的比萨",
+    "description": "经营自己的比萨店。读订单、抹酱撒料，把比萨送入烤炉，再切片装盒交给顾客。打烊后看账单，在商店添置配料、升级工具或装饰店面",
+    "preview": [
+      "media/73781.png",
+      "media/73778.png",
+      "media/73779.png",
+      "media/73780.png",
+      "media/73777.png"
+    ],
+    "icon": "media/73783.png",
+    "cover": "media/73782.jpg",
+    "author": [
+      {
+        "name": "18501",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://xbgw.sxb.asia",
+      "icon": "globe"
+    },
+    {
+      "title": "激活同步器",
+      "url": "https://wwbav.lanzouu.com/isJlB4f2jsod",
+      "icon": "download-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_红米手表4-5-6_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmrw5xring": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_红米手表4-5-6_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmrw6": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_红米手表4-5-6_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmb10": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米手环9-10-11_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmb10nfc": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米手环9-10-11_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmb10p": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米手环9Pro-10Pro_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmb11": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米手环9-10-11_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmb11nfc": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米手环9-10-11_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmb9": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米手环9-10-11_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmb9p": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米手环9Pro-10Pro_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmws4": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米S系列_0.2.10.rpk",
+      "versionCode": 12
+    },
+    "xmws5": {
+      "version": "0.2.10",
+      "file_name": "downloads/可口的比萨_小米S系列_0.2.10.rpk",
+      "versionCode": 12
+    }
+  },
+  "ext": {}
+}
