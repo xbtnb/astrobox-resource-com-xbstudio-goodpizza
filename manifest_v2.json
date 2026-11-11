@@ -94,5 +94,14 @@
       "versionCode": 12
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "plugin",
+          "id": "雪碧同步器"
+        }
+      ]
+    }
+  }
 }
